@@ -1,6 +1,6 @@
 # Computational Physics
 
-PHYS 7321, Fall 2024
+PHYS 7321, Fall 2025
 
 Instructor: Jim Halverson
 
@@ -53,7 +53,7 @@ For most of you, maximizing your strengths in these areas will be extremely usef
 
 **What is cheating?:** You're allowed to discuss homeworks, but you have to write your own code, though you are allowed to use any code from class as a template. People were caught last year with identical code or nearly identical code with different variable naming. First offense is a zero on the homework. Second offense leads a failing grade and an academic integrity violation. Regarding language models: feel free to use them, but still think. The quizzes will be hard if you don't do the homework.
 
-**Grading:** Project 50%, Quizzes 40%, Homework 10%.
+**Grading:** Project 50%, 3 Quizzes 40% total broken down as (10%, 15%, 15%), Homework 10%.
 
 # Course Material and Calendar
 
