@@ -80,8 +80,8 @@ For most of you, maximizing your strengths in these areas will be extremely usef
 - 10/28: Optimization and the Cosmological Constant
 - 10/31: Supervised Learning and Particle Physics
 - 11/4: CNNs and Galaxy Classification
-- 11/7: Hackathon 5: Supervised Learning and Optimization
-- 11/11: Reinforcement Learning and Physical Control
+- 11/7: Reinforcement Learning and Physical Control
+- 11/11: Hackathon 5: Supervised Learning and Optimization
 - 11/14: Unsupervised Learning and Topology
 - 11/18: Generative Models 
 - 11/21: Transformers, Attention, and Knots
