@@ -81,10 +81,9 @@ For most of you, maximizing your strengths in these areas will be extremely usef
 - 10/31: Supervised Learning and Particle Physics
 - 11/4: CNNs and Galaxy Classification
 - 11/7: Reinforcement Learning and Physical Control
-- 11/11: Hackathon 5: Supervised Learning and Optimization
 - 11/14: Unsupervised Learning and Topology
-- 11/18: Generative Models 
-- 11/21: Transformers, Attention, and Knots
+- 11/18: Hackathon 5: Supervised Learning and Optimization
+- 11/21: Generative Models
 - 11/25: Neural Nets and QFT
 - 12/2: Quiz 3: ML and Physics, Lecture
 - 12/5: Hackathon 6: Advanced ML
