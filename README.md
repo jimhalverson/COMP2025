@@ -85,8 +85,8 @@ For most of you, maximizing your strengths in these areas will be extremely usef
 - 11/18: Hackathon 5: Supervised Learning and Optimization
 - 11/21: Generative Models
 - 11/25: Neural Nets and QFT
-- 12/2: Quiz 3: ML and Physics, Lecture
-- 12/5: Hackathon 6: Advanced ML
+- 12/2: Hackathon 6: Advanced ML
+- 12/5: Quiz 3: ML and Physics
 
 # Resources
 
